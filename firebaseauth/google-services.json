@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "363899809732",
+    "project_id": "pratique7-fe1df",
+    "storage_bucket": "pratique7-fe1df.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:363899809732:android:2c92ca9bb93a7f2931fe91",
+        "android_client_info": {
+          "package_name": "ru.mirea.mahmoud.b.i.firebaseauth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "363899809732-9g9m9uof5umpktn4bjq48qg4l9p2hd75.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCH3wuayZiIDn3LYonpYTIk9o_9uU3FSZU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "363899809732-9g9m9uof5umpktn4bjq48qg4l9p2hd75.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
